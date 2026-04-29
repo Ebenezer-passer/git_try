@@ -8,7 +8,7 @@
 3、后续选项均可选择默认值，安装完毕后目录内容如下（putty文件夹除外）
 ![path](image/path.png)
 
-4、安装tortoiseGit，可选择和git在同一主目录下
+4、安装tortoiseGit，可选择和git在同一主目录下  
 ![](image/tortoiseGit_setup.png)
 
 5、安装好后会跳出如下页面，我们返回安装中文语言包，安装好后点refresh即显示中文可选
@@ -20,7 +20,7 @@
 
 7、此处选择**TortoiseGitPlink**，然后生成PuTTY密钥对
 (OpenSSH认证见[link](./git_local_deployment_SSH.md))
-![](image/plink.png)
+![](image/plink.png)  
 点击generate，然后按照要求随机移动鼠标，依据鼠标轨迹随机生成密钥对
 ![](image/key_gen.png)
 ![](image/key_gen_1.png)
